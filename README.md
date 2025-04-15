@@ -48,5 +48,7 @@ npm run dev
 5. Acesse no navegador:
 http://localhost:5173
 
+---
+
 🙋‍♂️ Autor
 Desenvolvido por [Seu Nome] – apaixonado por corridas, tecnologia e design.
